@@ -23,16 +23,16 @@ export const Navbar = () => {
             />
         <ul className={`${styles.menuItems} ${menuOpen && styles.menuOpen}`}
         onClick={() => setMenuOpen(false)}>
-          <li>
+          <li className={styles.link}>
             <a href="#about">About</a>
           </li>
-          <li>
+          <li className={styles.link}>
             <a href="#experience">Experience</a>
           </li>
-          <li>
+          <li className={styles.link}>
             <a href="#projects">Projects</a>
           </li>
-          <li>
+          <li className={styles.link}>
             <a href="#contact">Contact</a>
           </li>
         </ul>

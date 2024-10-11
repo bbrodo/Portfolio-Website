@@ -8,6 +8,7 @@
     padding-top: 61px;
     z-index: 2;
     margin: 0 10%;
+    max-height: 99.4px;
 }
 
 .title {
@@ -32,6 +33,12 @@
     font-size: 25px;
     color: var(--color-text);
     text-decoration: none;
+    transition: 0.5s;
+}
+
+.link a:hover {
+    font-size: 35px;
+    transition: 0.5s;
 }
 
 .menuBtn {
