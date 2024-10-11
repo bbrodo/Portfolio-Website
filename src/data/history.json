@@ -1,0 +1,10 @@
+[
+    {
+      "role": "Student",
+      "organisation": "Coder Academy",
+      "startDate": "Feb, 2024",
+      "endDate": "Present",
+      "experiences": ["Created databases and APIs", "Was taught how to make responsive and optimised sites using React and CSS "],
+      "imageSrc": "history/CA.png"
+    }
+  ]
