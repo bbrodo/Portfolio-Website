@@ -36,6 +36,8 @@
     display: flex;
     align-items: center;
     gap: 25px;
+    border-radius: 10px;
+    transition: 0.5s;
 }
 
 .link a {
@@ -44,6 +46,12 @@
     font-size: 30px;
     font-weight: 400;
     letter-spacing: 1.5px;
+}
+
+.link:hover {
+    box-shadow: 0 0 4px 0 white;
+    font-size: 32px;
+    transition: 0.5s;
 }
 
 @media screen and (max-width: 830px) {
