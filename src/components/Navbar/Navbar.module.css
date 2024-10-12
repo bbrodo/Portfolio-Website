@@ -1,7 +1,6 @@
 @import '../../vars.css';
 
 .navbar {
-    position: relative;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -43,12 +42,15 @@
 
 .menuBtn {
     display: none;
+    right: 0;
+    margin-right: 0;
 }
 
 @media screen and (max-width: 830px) {
     .navbar {
         flex-direction: column;
         align-items: flex-start;
+        justify-content: space-between;
     }
 
     .menu {
@@ -64,6 +66,7 @@
     .menuBtn {
         display: block;
         cursor: pointer;
+        position: right;
     }
 
     .menuItems {
