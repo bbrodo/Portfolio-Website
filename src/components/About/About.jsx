@@ -28,7 +28,7 @@ export const About = () => {
                     <img src={getImageUrl("about/uiIcon.png")} alt="ui icon" />
                     <div className={styles.aboutItemText}>
                         <h3>UI Designer</h3>
-                        <p>I have designed multiple landing pages and have systems as well</p>
+                        <p>I have designed multiple intuitive and visually appealing interfaces.</p>
                     </div>
                 </li>
             </ul>

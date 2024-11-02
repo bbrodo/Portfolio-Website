@@ -3,24 +3,24 @@
       "title": "Portfolio Website",
       "imageSrc": "projects/portfolio-website.png",
       "description": "This is the website you are currently on! it was made to help me learn React by building an app.",
-      "skills": ["React", "Css", "Node"],
+      "skills": ["React", "Css", "Node", "JavaScript"],
       "demo": "https://brodeybright.netlify.app",
       "source": "https://github.com/bbrodo/Portfolio-Website"
     },
     {
-      "title": "Project B",
+      "title": "Music Sharing API",
       "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node", "Sass"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "description": "This project was made to help me learn Flask and Psql. Developed a Flask API for user profiles, song uploads, and groups, fostering a vibrant music-sharing community.",
+      "skills": ["Flask", "Python", "PostgreSQL"],
+      "demo": "https://github.com/bbrodo/BrodeyBright_T2A2",
+      "source": "https://github.com/bbrodo/BrodeyBright_T2A2"
     },
     {
-      "title": "Project C",
-      "imageSrc": "projects/project.png",
-      "description": "This is a project made to learn the latest languages by building an app.",
-      "skills": ["React", "Express", "Node"],
-      "demo": "https://www.example.com",
-      "source": "https://www.github.com"
+      "title": "Hangman Terminal App",
+      "imageSrc": "projects/hangman.png",
+      "description": "I made this project to learn the fundamentals of Python. Created a Python Hangman game with ASCII art displaying real-time progress for enhanced user interaction.",
+      "skills": ["Python", "Bash"],
+      "demo": "https://github.com/bbrodo/BrodeyBrightT1A3",
+      "source": "https://github.com/bbrodo/BrodeyBrightT1A3"
     }
   ]

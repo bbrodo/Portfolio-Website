@@ -6,5 +6,13 @@
       "endDate": "Present",
       "experiences": ["Created databases and APIs", "Was taught how to make responsive and optimised sites using React and CSS "],
       "imageSrc": "history/CA.png"
+    },
+    {
+      "role": "Crew Trainer",
+      "organisation": "McDonalds",
+      "startDate": "Mar, 2021",
+      "endDate": "Present",
+      "experiences": ["Conducted hands-on training sessions that equipped crew members with essential skills in customer service and food preparation"],
+      "imageSrc": "history/mcd.png"
     }
   ]

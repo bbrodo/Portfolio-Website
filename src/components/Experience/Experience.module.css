@@ -47,7 +47,7 @@
 }
 
 .skillImageContainer img {
-    width: 75px;
+    max-width: 75px;
 }
 
 .skill p {
@@ -100,6 +100,15 @@
     font-size: 25px;
     list-style-type: disc;
     margin-left: 17px;
+}
+
+.skillImg {
+    max-height: 100px;
+}
+
+.historyImg {
+    max-height: 50px;
+    max-width: 50px;
 }
 
 @media screen and (max-width: 830px) {
